@@ -16,5 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## اسکرین‌شات اپلیکیشن
 
-assets/screenshots/screenshot_1.png)
-![Home](assets/screenshots/screenshot_2.png)
+![Home](assets/screenshots/screenshot_1.png)
